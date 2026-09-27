@@ -2,7 +2,7 @@
 
 Can classical time series models and a random forest predict next-day stock returns well enough to trade on? This project fits AR, ARMA, seasonal ARMA, and random forest models to daily Microsoft (MSFT) and Tesla (TSLA) returns, tunes them on a held-out validation year, and backtests a simple trading rule on 2019 against momentum, random, buy-and-hold, and perfect-foresight benchmarks.
 
-Research conducted by **Victor Xia** with mentor John Pleines (PhD candidate) through the UC Riverside Statistics Department's **SMART program** (Statistical Mentoring in Applications, Research, and Technology), Spring 2025.
+Research conducted by **Victor Xia** with mentor Dr. John Pleines through the UC Riverside Statistics Department's **SMART program** (Statistical Mentoring in Applications, Research, and Technology), Spring 2025.
 
 🏆 **FN David Rising Scholar Award**, Florence Nightingale David Symposium, and **SMART Mentee Award**
 
@@ -90,4 +90,4 @@ Prices are cached in `data/` after the first download, and model predictions in 
 
 ## Acknowledgments
 
-Thank you to my mentor John Pleines and the UC Riverside Department of Statistics for selecting me for the SMART program and for my first experience in academic research.
+Thank you to my mentor Dr. John Pleines and the UC Riverside Department of Statistics for selecting me for the SMART program and for my first experience in academic research.
